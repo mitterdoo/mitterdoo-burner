@@ -1,0 +1,1 @@
+everything in this repo is provided as-is, with no support whatsoever. I'm not going to give installation instructions, tutorials, etc., because these are unfinished projects. If any code is used in projects, please be sure to credit me by linking my Github profile. I do not permit any code in this to be used for any profits or financial gain. Thank you for understanding.
